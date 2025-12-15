@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🎓 Professional Certifications Portfolio
 
 <div align="center">
