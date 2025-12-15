@@ -29,7 +29,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🎓 Computer Science
 
-<a href="https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf" target="_blank">
+<a href="[https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf]" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/1200px-Harvard_University_coat_of_arms.svg.png" alt="Harvard University" width="120"/>
 </a>
 
