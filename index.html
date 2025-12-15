@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Certifications - Colten Reed</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 50px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2d3748;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #718096;
+            font-size: 1.2em;
+            margin-bottom: 50px;
+        }
+        
+        .cert-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+        
+        .cert-card {
+            background: #f7fafc;
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+            cursor: pointer;
+        }
+        
+        .cert-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+            border-color: #667eea;
+        }
+        
+        .cert-badge {
+            width: 150px;
+            height: 150px;
+            margin: 0 auto 20px;
+            display: block;
+            object-fit: contain;
+        }
+        
+        .cert-name {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #2d3748;
+            margin-bottom: 10px;
+        }
+        
+        .cert-issuer {
+            color: #718096;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+        }
+        
+        .cert-details {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+            font-size: 0.85em;
+            color: #4a5568;
+        }
+        
+        .cert-id {
+            margin: 5px 0;
+        }
+        
+        .verify-btn {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 25px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+        
+        .verify-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .stackable {
+            background: #fef5e7;
+            border: 2px solid #f39c12;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 30px 20px;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+            
+            .cert-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Professional Certifications</h1>
+        <p class="subtitle">Colten A. Reed | IT Professional</p>
+        
+        <div class="cert-grid">
+            <!-- Harvard CS50 -->
+            <div class="cert-card" onclick="window.open('https://cs50.harvard.edu/certificates/a0d58051-a8b3-4e10-8ffe-6444a9accf90', '_blank')">
+                <img src="https://pll.harvard.edu/sites/default/files/styles/header/public/course/asset-v1_HarvardX%2BCS50%2BX%2Btype%40asset%2Bblock%40HarvardX_CS50_Image_v4_0.jpg" alt="CS50" class="cert-badge">
+                <div class="cert-name">CS50: Computer Science</div>
+                <div class="cert-issuer">Harvard University</div>
+                <div class="cert-details">
+                    <div class="cert-id"><strong>Issued:</strong> 2025</div>
+                    <div class="cert-id"><strong>Awarded from:</strong> Cambridge, Massachusetts</div>
+                    <div style="margin-top: 10px; font-style: italic;">
+                        Introduction to Computer Science including algorithms, data structures, and software engineering
+                    </div>
+                </div>
+                <a href="https://cs50.harvard.edu/certificates/a0d58051-a8b3-4e10-8ffe-6444a9accf90" target="_blank" class="verify-btn" onclick="event.stopPropagation()">Verify Certification</a>
+            </div>
+            
+            <!-- CompTIA A+ -->
+            <div class="cert-card" onclick="window.open('http://verify.CompTIA.org', '_blank')">
+                <img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="CompTIA A+" class="cert-badge">
+                <div class="cert-name">CompTIA A+ ce</div>
+                <div class="cert-issuer">CompTIA</div>
+                <div class="cert-details">
+                    <div class="cert-id"><strong>ID:</strong> COMP001022773409</div>
+                    <div class="cert-id"><strong>Issued:</strong> November 9, 2025</div>
+                    <div class="cert-id"><strong>Valid Through:</strong> November 17, 2028</div>
+                    <div class="cert-id"><strong>Code:</strong> 68aee1916dc4431a868a4d495470b667</div>
+                </div>
+                <a href="http://verify.CompTIA.org" target="_blank" class="verify-btn" onclick="event.stopPropagation()">Verify Certification</a>
+            </div>
+            
+            <!-- CompTIA Network+ -->
+            <div class="cert-card" onclick="window.open('http://verify.CompTIA.org', '_blank')">
+                <img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="CompTIA Network+" class="cert-badge">
+                <div class="cert-name">CompTIA Network+ ce</div>
+                <div class="cert-issuer">CompTIA</div>
+                <div class="cert-details">
+                    <div class="cert-id"><strong>ID:</strong> COMP001022773409</div>
+                    <div class="cert-id"><strong>Exam:</strong> N10-009</div>
+                    <div class="cert-id"><strong>Issued:</strong> November 17, 2025</div>
+                    <div class="cert-id"><strong>Valid Through:</strong> November 17, 2028</div>
+                    <div class="cert-id"><strong>Code:</strong> 48838672f4d945f9ad1abd618fae37d1</div>
+                </div>
+                <a href="http://verify.CompTIA.org" target="_blank" class="verify-btn" onclick="event.stopPropagation()">Verify Certification</a>
+            </div>
+            
+            <!-- CompTIA Security+ -->
+            <div class="cert-card" onclick="window.open('http://verify.CompTIA.org', '_blank')">
+                <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+" class="cert-badge">
+                <div class="cert-name">CompTIA Security+ ce</div>
+                <div class="cert-issuer">CompTIA</div>
+                <div class="cert-details">
+                    <div class="cert-id"><strong>ID:</strong> COMP001022773409</div>
+                    <div class="cert-id"><strong>Valid Through:</strong> November 17, 2028</div>
+                </div>
+                <a href="http://verify.CompTIA.org" target="_blank" class="verify-btn" onclick="event.stopPropagation()">Verify Certification</a>
+            </div>
+            
+            <!-- CompTIA IT Operations Specialist -->
+            <div class="cert-card stackable" onclick="window.open('http://verify.CompTIA.org', '_blank')">
+                <img src="https://images.credly.com/size/340x340/images/a4e73a37-a463-4729-b7f8-e6e8b6a79849/CompTIA_CIOS_Stackable.png" alt="CompTIA CIOS" class="cert-badge">
+                <div class="cert-name">CompTIA IT Operations Specialist</div>
+                <div class="cert-issuer">CompTIA (Stackable Certification)</div>
+                <div class="cert-details">
+                    <div class="cert-id"><strong>ID:</strong> COMP001022773409</div>
+                    <div class="cert-id"><strong>Valid Through:</strong> November 17, 2025</div>
+                    <div style="margin-top: 10px; font-style: italic; color: #e67e22;">
+                        🏆 Earned by obtaining A+, Network+, and Security+
+                    </div>
+                </div>
+                <a href="http://verify.CompTIA.org" target="_blank" class="verify-btn" onclick="event.stopPropagation()">Verify Certification</a>
+            </div>
+            
+            <!-- Microsoft Azure Fundamentals -->
+            <div class="cert-card" onclick="window.open('https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f', '_blank')">
+                <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" class="cert-badge">
+                <div class="cert-name">Microsoft Azure Fundamentals</div>
+                <div class="cert-issuer">Microsoft</div>
+                <div class="cert-details">
+                    <div class="cert-id"><strong>Certification:</strong> AZ-900</div>
+                </div>
+                <a href="https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f" target="_blank" class="verify-btn" onclick="event.stopPropagation()">Verify Certification</a>
+            </div>
+            
+            <!-- Microsoft AI Fundamentals -->
+            <div class="cert-card" onclick="window.open('https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0', '_blank')">
+                <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" class="cert-badge">
+                <div class="cert-name">Microsoft Azure AI Fundamentals</div>
+                <div class="cert-issuer">Microsoft</div>
+                <div class="cert-details">
+                    <div class="cert-id"><strong>Certification:</strong> AI-900</div>
+                </div>
+                <a href="https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0" target="_blank" class="verify-btn" onclick="event.stopPropagation()">Verify Certification</a>
+            </div>
+            
+            <!-- LPI Linux Essentials -->
+            <div class="cert-card" onclick="window.open('https://cs.lpi.org/caf/Xamman/certification', '_blank')">
+                <img src="https://images.credly.com/size/340x340/images/a2790314-008a-4c3d-9553-f5e84eb359ba/Linux_Essent.png" alt="Linux Essentials" class="cert-badge">
+                <div class="cert-name">Linux Essentials</div>
+                <div class="cert-issuer">Linux Professional Institute (LPI)</div>
+                <div class="cert-details">
+                    <div class="cert-id"><strong>Certification:</strong> LPI Linux Essentials</div>
+                </div>
+                <a href="https://cs.lpi.org/caf/Xamman/certification" target="_blank" class="verify-btn" onclick="event.stopPropagation()">Verify Certification</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
