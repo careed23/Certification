@@ -30,8 +30,11 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🎓 Harvard University
 
-[![CS50](https://img.shields.io/badge/Harvard-CS50%3A%20Computer%20Science-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white)](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
+<a href="https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf" target="_blank">
+  <img src="harvard.png" height="110" alt="Harvard CS50"/>
+</a>
 
+**CS50: Computer Science**
 [View Certificate →](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
 
 </div>
@@ -42,12 +45,14 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🔧 CompTIA
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
+<img src="A+.png" height="100" alt="A+"/>
+<img src="Network+.png" height="100" alt="Network+"/>
+<img src="Security+.png" height="100" alt="Security+"/>
 
-![CompTIA CIOS](https://img.shields.io/badge/CompTIA-IT%20Operations%20Specialist-F39C12?style=for-the-badge&logo=comptia&logoColor=white)
-![CompTIA CSIS](https://img.shields.io/badge/CompTIA-Secure%20Infrastructure%20Specialist-F39C12?style=for-the-badge&logo=comptia&logoColor=white)
+<br>
+
+<img src="CIOS.png" height="100" alt="CIOS"/>
+<img src="CSIS.png" height="100" alt="CSIS"/>
 
 **Verification Codes:**
 `A+: 68aee1916dc4431a868a4d495470b667`
@@ -65,10 +70,15 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### ☁️ Microsoft Azure
 
-[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f)
-[![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0)
+<a href="https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f" target="_blank">
+  <img src="AZ-900.png" height="100" alt="AZ-900"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0" target="_blank">
+  <img src="AI-900.png" height="100" alt="AI-900"/>
+</a>
 
-[Verify AZ-900](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f) | [Verify AI-900](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0)
+**Microsoft Azure Fundamentals (AZ-900)** | **Microsoft Azure AI Fundamentals (AI-900)**
+[Verify AZ-900 →](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f) | [Verify AI-900 →](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0)
 
 </div>
 
@@ -78,8 +88,10 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🗄️ Oracle
 
-![Oracle Certified Associate](https://img.shields.io/badge/Oracle-Certified%20Associate%20(OCA)-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="oracle.png" height="110" alt="Oracle Certified Associate"/>
 
+**Oracle Certified Associate (OCA)**
+*Database Fundamentals & Administration*
 **Issued:** December 29, 2025
 
 </div>
@@ -90,8 +102,11 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🐧 Linux Professional Institute
 
-[![Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-0099CC?style=for-the-badge&logo=linux&logoColor=white)](https://cs.lpi.org/caf/Xamman/certification)
+<a href="https://cs.lpi.org/caf/Xamman/certification" target="_blank">
+  <img src="linux.png" height="100" alt="Linux Essentials"/>
+</a>
 
+**Linux Essentials**
 **Verification Code:** `6e0f27ba-4c99-4cc3-b805-4d9e071118fc`
 [Verify at LPI.org →](https://cs.lpi.org/caf/Xamman/certification)
 
