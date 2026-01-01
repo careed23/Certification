@@ -51,14 +51,14 @@ This repository hosts my professional certification portfolio with clickable bad
 ![CompTIA CIOS](https://img.shields.io/badge/CompTIA-IT%20Operations%20Specialist-F39C12?style=for-the-badge&logo=comptia&logoColor=white)
 <img src="csis-badge.png" height="28" alt="CompTIA CSIS"/>
 
-**CompTIA A+ ce** | **CompTIA Network+ ce** | **CompTIA Security+ ce** **IT Operations Specialist (CIOS)** | [cite_start]**Secure Infrastructure Specialist (CSIS)** [cite: 3, 5]
+**CompTIA A+ ce** | **CompTIA Network+ ce** | **CompTIA Security+ ce** **IT Operations Specialist (CIOS)** | **Secure Infrastructure Specialist (CSIS)**
 
 *Certification ID: COMP001022773409* *Valid Through: November 17, 2028*
 
 **Verification Codes:** - **A+ Code:** `68aee1916dc4431a868a4d495470b667`  
 - **Network+ Code:** `48838672f4d945f9ad1abd618fae37d1`
-- [cite_start]**Security+ Code:** `8d5686fba80b45a9ab2db7966bba8d1b` [cite: 4]
-- [cite_start]**CSIS Code:** `COMP001022773409` [cite: 3]
+- **Security+ Code:** `8d5686fba80b45a9ab2db7966bba8d1b`
+- **CSIS Code:** `COMP001022773409`
 
 [Verify at CompTIA.org →](http://verify.CompTIA.org)
 
@@ -89,8 +89,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <img src="oracle-associate.png" width="140" alt="Oracle Certified Associate"/>
 
-[cite_start]**Oracle Certified Associate (OCA)** [cite: 7, 8]  
-[cite_start]*Database Fundamentals & Administration* **Issued:** December 29, 2025 [cite: 9]
+**Oracle Certified Associate (OCA)** *Database Fundamentals & Administration* **Issued:** December 29, 2025
 
 </div>
 
