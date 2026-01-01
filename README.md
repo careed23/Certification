@@ -28,7 +28,26 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ## 📜 Certifications
 
+### 🎓 Harvard University
+
+<a href="https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/1200px-Harvard_University_coat_of_arms.svg.png" alt="Harvard University" height="100"/>
+</a>
+
+[![CS50](https://img.shields.io/badge/Harvard-CS50%3A%20Computer%20Science-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white)](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
+
+[View Certificate →](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🔧 CompTIA
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CompTIA_logo.svg/2560px-CompTIA_logo.svg.png" alt="CompTIA" height="60"/>
+<br><br>
 
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
@@ -53,6 +72,9 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### ☁️ Microsoft Azure
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure" height="80"/>
+<br><br>
+
 [![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f)
 [![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0)
 
@@ -66,6 +88,9 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🗄️ Oracle
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" height="50"/>
+<br><br>
+
 ![Oracle Certified Associate](https://img.shields.io/badge/Oracle-Certified%20Associate%20(OCA)-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Issued:** December 29, 2025
@@ -78,22 +103,13 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🐧 Linux Professional Institute
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lpi_logo.png/1200px-Lpi_logo.png" alt="LPI" height="80"/>
+<br><br>
+
 [![Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-0099CC?style=for-the-badge&logo=linux&logoColor=white)](https://cs.lpi.org/caf/Xamman/certification)
 
 **Verification Code:** `6e0f27ba-4c99-4cc3-b805-4d9e071118fc`
 [Verify at LPI.org →](https://cs.lpi.org/caf/Xamman/certification)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎓 Harvard University
-
-[![CS50](https://img.shields.io/badge/Harvard-CS50%3A%20Computer%20Science-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white)](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
-
-[View Certificate →](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
 
 </div>
 
