@@ -28,37 +28,20 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ## 📜 Certifications
 
-### 🎓 Computer Science
-
-<a href="https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/1200px-Harvard_University_coat_of_arms.svg.png" alt="Harvard University" width="120"/>
-</a>
-
-**CS50: Computer Science** *Harvard University* [View Certificate →](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔧 CompTIA Certifications
+### 🔧 CompTIA
 
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
 
 ![CompTIA CIOS](https://img.shields.io/badge/CompTIA-IT%20Operations%20Specialist-F39C12?style=for-the-badge&logo=comptia&logoColor=white)
-<img src="csis-badge.png" height="28" alt="CompTIA CSIS"/>
+![CompTIA CSIS](https://img.shields.io/badge/CompTIA-Secure%20Infrastructure%20Specialist-F39C12?style=for-the-badge&logo=comptia&logoColor=white)
 
-**CompTIA A+ ce** | **CompTIA Network+ ce** | **CompTIA Security+ ce** **IT Operations Specialist (CIOS)** | **Secure Infrastructure Specialist (CSIS)**
-
-*Certification ID: COMP001022773409* *Valid Through: November 17, 2028*
-
-**Verification Codes:** - **A+ Code:** `68aee1916dc4431a868a4d495470b667`  
-- **Network+ Code:** `48838672f4d945f9ad1abd618fae37d1`
-- **Security+ Code:** `8d5686fba80b45a9ab2db7966bba8d1b`
-- **CSIS Code:** `COMP001022773409`
+**Verification Codes:**
+`A+: 68aee1916dc4431a868a4d495470b667`
+`Network+: 48838672f4d945f9ad1abd618fae37d1`
+`Security+: 8d5686fba80b45a9ab2db7966bba8d1b`
+`CSIS/CIOS: COMP001022773409`
 
 [Verify at CompTIA.org →](http://verify.CompTIA.org)
 
@@ -68,16 +51,12 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-### ☁️ Microsoft Azure Certifications
+### ☁️ Microsoft Azure
 
-<a href="https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f" target="_blank">
-  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" width="140"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0" target="_blank">
-  <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" width="140"/>
-</a>
+[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f)
+[![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0)
 
-**Microsoft Azure Fundamentals (AZ-900)** | **Microsoft Azure AI Fundamentals (AI-900)** [Verify AZ-900 →](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f) | [Verify AI-900 →](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0)
+[Verify AZ-900](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f) | [Verify AI-900](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0)
 
 </div>
 
@@ -85,11 +64,11 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-### 🗄️ Database Certifications
+### 🗄️ Oracle
 
-<img src="oracle-associate.png" width="140" alt="Oracle Certified Associate"/>
+![Oracle Certified Associate](https://img.shields.io/badge/Oracle-Certified%20Associate%20(OCA)-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Oracle Certified Associate (OCA)** *Database Fundamentals & Administration* **Issued:** December 29, 2025
+**Issued:** December 29, 2025
 
 </div>
 
@@ -99,10 +78,22 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🐧 Linux Professional Institute
 
-![Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-0099CC?style=for-the-badge&logo=linux&logoColor=white)
+[![Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-0099CC?style=for-the-badge&logo=linux&logoColor=white)](https://cs.lpi.org/caf/Xamman/certification)
 
-**Linux Essentials** *Linux Professional Institute (LPI)* **Verification Code:** `6e0f27ba-4c99-4cc3-b805-4d9e071118fc`  
+**Verification Code:** `6e0f27ba-4c99-4cc3-b805-4d9e071118fc`
 [Verify at LPI.org →](https://cs.lpi.org/caf/Xamman/certification)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎓 Harvard University
+
+[![CS50](https://img.shields.io/badge/Harvard-CS50%3A%20Computer%20Science-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white)](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
+
+[View Certificate →](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
 
 </div>
 
@@ -112,10 +103,10 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ## 🛠️ Technical Expertise
 
-**Cloud & Virtualization:** Microsoft Azure, AWS, Infrastructure as Code (Terraform)  
-**Security & Compliance:** Network Security, Firewall Management, IAM, MFA  
-**Operating Systems:** Windows Server, Ubuntu/Linux, macOS  
-**Infrastructure:** Active Directory, System Administration, Network Administration  
+**Cloud & Virtualization:** Microsoft Azure, AWS, Infrastructure as Code (Terraform)
+**Security & Compliance:** Network Security, Firewall Management, IAM, MFA
+**Operating Systems:** Windows Server, Ubuntu/Linux, macOS
+**Infrastructure:** Active Directory, System Administration, Network Administration
 **Automation & Scripting:** Python, YAML, Jinja2, GitOps
 
 </div>
@@ -126,9 +117,9 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ## 🔗 Links
 
-**Live Portfolio:** [careed23.github.io/certifications](https://careed23.github.io/certifications/)  
-**GitHub:** [github.com/careed23](https://github.com/careed23)  
-**LinkedIn:** [linkedin.com/in/colten-reed-8395b6389](https://www.linkedin.com/in/colten-reed-8395b6389)  
+**Live Portfolio:** [careed23.github.io/certifications](https://careed23.github.io/certifications/)
+**GitHub:** [github.com/careed23](https://github.com/careed23)
+**LinkedIn:** [linkedin.com/in/colten-reed-8395b6389](https://www.linkedin.com/in/colten-reed-8395b6389)
 **Email:** tat2creed@gmail.com
 
 </div>
