@@ -4,6 +4,11 @@
 
 <div align="center">
 
+![MyComputerCareer](https://img.shields.io/badge/MyComputerCareer-Information%20Technology-d92b2b?style=for-the-badge)
+![Harvard University](https://img.shields.io/badge/Harvard%20University-School%20of%20Computer%20Science-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white)
+
+<br>
+
 [![Portfolio](https://img.shields.io/badge/View-Live%20Portfolio-purple?style=for-the-badge)](https://careed23.github.io/certifications/)
 
 Interactive certification portfolio showcasing verified professional credentials in IT, Cloud Computing, Cybersecurity, and Computer Science.
