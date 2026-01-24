@@ -94,10 +94,15 @@ This repository hosts my professional certification portfolio with clickable bad
 ### 🗄️ Oracle
 
 <img src="oracle.png" height="110" alt="Oracle Certified Associate"/>
+<img src="oci-foundations-2025.png" height="110" alt="OCI Foundations 2025"/>
 
 **Oracle Certified Associate (OCA)**
 *Database Fundamentals & Administration*
 **Issued:** December 29, 2025
+
+**Oracle Cloud Infrastructure Foundations Associate 2025**
+*Cloud Infrastructure Fundamentals*
+**Issued:** 2025
 
 </div>
 
@@ -123,7 +128,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ## 🛠️ Technical Expertise
 
-**Cloud & Virtualization:** Microsoft Azure, AWS, Infrastructure as Code (Terraform)
+**Cloud & Virtualization:** Microsoft Azure, AWS, Oracle Cloud Infrastructure (OCI), Infrastructure as Code (Terraform)
 **Security & Compliance:** Network Security, Firewall Management, IAM, MFA
 **Operating Systems:** Windows Server, Ubuntu/Linux, macOS
 **Infrastructure:** Active Directory, System Administration, Network Administration
