@@ -94,7 +94,6 @@ This repository hosts my professional certification portfolio with clickable bad
 ### 🗄️ Oracle
 
 <img src="oracle.png" height="110" alt="Oracle Certified Associate"/>
-<img src="oci-foundations-2025.png" height="110" alt="OCI Foundations 2025"/>
 
 **Oracle Cloud Infrastructure Foundations Associate 2025**
 *Cloud Infrastructure Fundamentals*
